@@ -42,7 +42,7 @@ body{
 input, select, textarea, button {
     font-family: sans-serif;
     font-size: 1em;
-    color: #f8f8f8;
+    color: #000000;
     border-radius: 5px;
 }
 
