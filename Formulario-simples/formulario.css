@@ -8,14 +8,14 @@
 #titulo {
     font-family: sans-serif;
     color: #000000;
-    margin-left: 7%;
+    margin-left: 12%;
 } 
 
 /* Elementos com o ID "subtitulo" */
 #subtitulo {
     font-family: sans-serif;
     color: #000000;
-    margin-left: 10%;
+    margin-left: 7%;
 } 
 
 #check{
@@ -102,9 +102,9 @@ fieldset.grupo .campo {
     padding: 0.2em 0.6em;
     box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
-    position: absolute;
+    position: relative;
     top: 90%;
-    left: 50%;
+    left: 25%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
 }
